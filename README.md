@@ -69,12 +69,6 @@ Olympics Data Analysis _ ML _ FA _ DA projects
 
 * Sport and discipline trends provide insight into which countries invest in which types of athletics.
 
-# ✅ Possible Applications
-* Can be used to build predictive models for future Olympics.
-
-* Useful for policy-making in sports funding and athlete development.
-
-* Insights can guide media content strategy for covering key sports and countries.
 
 
 # 🧠 Decisions & Recommendations
