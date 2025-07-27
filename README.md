@@ -51,7 +51,7 @@ Olympics Data Analysis _ ML _ FA _ DA projects
 ## 7. Gender Distribution by Sport
   Revealed which sports are more gender-balanced and which are male/female dominated.
 
-# 📈 Technologies Used
+# 📈 Tools Used
 * Python
 
 * Pandas
